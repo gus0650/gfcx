@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/GitHub/gfcx/code/Content/sound.wav</SourceFile>
+  <SourceTime>2024-09-19T08:00:00.8443434+02:00</SourceTime>
+  <DestFile>F:/GitHub/gfcx/code/Content/bin/DesktopGL/Content/sound.xnb</DestFile>
+  <DestTime>2025-04-12T15:42:03.832715+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-04-05T12:10:54+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-04-05T12:10:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

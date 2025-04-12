@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>F:/GitHub/gfcx/code/Content/1980.mp3</SourceFile>
+  <SourceTime>2011-03-13T10:50:47+01:00</SourceTime>
+  <DestFile>F:/GitHub/gfcx/code/Content/bin/DesktopGL/Content/1980.xnb</DestFile>
+  <DestTime>2025-04-12T15:42:03.5655714+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2025-04-05T12:10:54+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-04-05T12:10:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>F:/GitHub/gfcx/code/Content/bin/DesktopGL/Content/1980.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
