@@ -1,0 +1,24 @@
+GFX TODO
+========
+
+draw a sprite DONE
+draw a text using bitmap font DONE
+play a sound DONE
+play some music DONE
+get keypress DONE
+
+blit image partially
+
+load a text file & display text
+
+animate a sprite
+
+draw a tilemap
+
+
+get touch input
+
+convert GFC UI system from java
+	button
+	gauge
+	...

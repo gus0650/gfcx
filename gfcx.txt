@@ -1,0 +1,16 @@
+GFC# GFCSharp 
+
+Eine Bibliothek für Grafiken und Animatione
+
+Spritesheets
+Bitmap Fonts
+Tilemaps
+Scrolling
+
+angelehnt an J2ME MIDP
+
+Sprite, Tilemap, Font, Canvas
+
+mit eigenen, selbstlaufenden demo programmen
+
+Kann ggf später in ein eigenes Github repository als opensource
