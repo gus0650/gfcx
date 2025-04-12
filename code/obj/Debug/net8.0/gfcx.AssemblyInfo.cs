@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gfcx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29059837311ced3097aec34350c831c0687d71b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("gfcx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gfcx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
